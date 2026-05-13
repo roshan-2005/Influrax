@@ -1,0 +1,4 @@
+project_id = "pupdsvxzlopiseajlkif"
+
+[functions.generate-outreach]
+verify_jwt = true
